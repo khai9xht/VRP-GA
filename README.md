@@ -1,3 +1,2 @@
 # hello-world
-This is just a start!
-Some changes have been made.
+This is a project using Genetic Algorithm to solve Vehicle Routing Problem. 
